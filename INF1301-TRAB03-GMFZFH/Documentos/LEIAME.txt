@@ -1,0 +1,45 @@
+﻿INF1301 Programação Modular
+Período: 2015-1
+Prof. Flavio Bevilacqua
+3o. Trabalho
+Leia.me
+
+- Grupo:
+Gabriel Maia Guzowski
+Felipe Holanda Bezerra
+Felipe Zarattini Miranda
+
+
+- Conteúdo do Presente Documento:
+	Apresentação
+	Estrutura de Diretórios
+	Método de Execução
+
+---------------------------------------------------------------------------------
+- Apresentação:
+Esse texto descreve o conteúdo do arquivo INF1301-Trab3-GFF.zip de forma sucinta. 
+O arquivo citado contém toda a documentação e todos os módulos fonte, utilitários
+e exemplos que são necessários para o Trabalho 3 da disciplina, o Jogo Paciência 
+Spider GFF. 
+
+- Estrutura de Diretórios:
+Assim que dezipar o arquivo, o usuário encontrará a seguinte estrutura de pastas:
+	Documentos	      - Possui a documentação do projeto
+	PacienciaSpider       - Possui os códigos do jogo e o executável principal	
+	Testabaralho	      - Códigos e script de teste do Baralho
+	Relatórios	      -	Diretório com os relatórios dos membros do grupo
+	TestaCincoPrincipais  - Códigos e script de teste das Cinco 
+				Sequências Principais
+	TestaLista	      - Códigos e script de teste da a Lista
+	TestaPilhaDeCartas    -	Códigos e script de teste da Pilha de Cartas 
+	TestaSave	      -	Códigos e script de teste do Save
+	TestaSequências	      -	Códigos e script de teste das Sequências
+	TestaSequenciasCompletas - Códigos e script de teste das Sequências
+				   Completas
+
+- Método de Execução:
+Descompacte o arquivo .zip em um diretório qualquer do seu computador. Acesse o
+diretório para onde o arquivo foi descompactado e dê dois cliques na pasta que 
+foi gerada. Para rodar os testes, clique duas vezes em cada uma das pastas 
+referentes aos testes desejados e clique duas vezes nos  arquivos .bat 
+localizados nesses diretórios.

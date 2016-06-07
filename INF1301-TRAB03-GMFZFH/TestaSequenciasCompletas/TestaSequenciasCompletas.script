@@ -1,0 +1,12 @@
+// Script:    TestaSequenciasCompletas.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      25/05/2015
+// Propósito: Testar o módulo de Sequências Completas
+//
+
+
+==Testar se uma sequência incompleta está completa
+=verificarseqcomp	2	2
+
+== Testa se uma sequência está completa
+=verificarseqcomp	1	0

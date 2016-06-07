@@ -1,0 +1,29 @@
+// Script: DeturpaTeste4.script
+// Autor: Gabriel Maia, Felipe Zarattini, Felipe Holanda
+// Data: 13/abr/2014
+// Propósito: Testar a deturpação
+
+== Iniciar contagem
+=inicializarcontadores "acumulador4"
+=zerartodoscontadores
+=lercontadores "VerificaPilha"
+=iniciarcontagem
+
+==Criar Pilha
+=criarpilha 0
+
+==Acrescentar uma Carta à Pilha
+=adicionar	"A"	'C'	0	0	0
+
+==Deturpando. Acrescentar lixo no elemento sucessor.
+=deturpa	4	0
+=verifica	0
+=destruirpilha	0
+
+== Parando contagem
+=pararcontagem
+
+== Finalizando contadores
+=terminarcontadores
+
+//

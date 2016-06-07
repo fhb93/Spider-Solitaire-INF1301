@@ -1,0 +1,8 @@
+Data: 10/03/2015	Horas Trabalhadas: 1 hora e meia	Tipo Tarefa: Testar										Descrição da Tarefa Realizada: Tentei testar e instalar o arcabouço, mas não entendi muito bem o funcionamento
+Data: 11/03/2015	Horas Trabalhadas: 3 horas		Tipo Tarefa: Testar e estudar									Descrição da Tarefa Realizada: Estudei um pouco sobre o funcionamento do arcabouço e consegui executá-lo
+Data: 13/03/2015	Horas Trabalhadas: 2 horas		Tipo Tarefa: Estudar e planejar teste								Descrição da Tarefa Realizada: Estudei o funcionamento dos scripts e os módulos e planejamos a execução
+Data: 17/03/2015	Horas Trabalhadas: 3 horas		Tipo Tarefa: Codificar										Descrição da Tarefa Realizada: Comecei a desenvolver algumas funções para execução da costura da árvore
+Data: 20/03/2015	Horas Trabalhadas: 4 horas		Tipo Tarefa: Codificar										Descrição da Tarefa Realizada: Continuei a desenvolver algumas funções para execução da costura da árvore
+Data: 23/03/2015	Horas Trabalhadas: 6 horas		Tipo Tarefa: Codificar, especificar os módulos, especificar as funções e corrigir		Descrição da Tarefa Realizada: Continuei a desenvolver algumas funções para execução da costura da árvore, especifiquei os módulos e funções e corrigi alguns erros
+Data: 24/03/2015	Horas Trabalhadas: 6 horas		Tipo Tarefa: Corrigir, especificar os módulos e especificar as funções				Descrição da Tarefa Realizada: Corrigi alguns erros no script de testes e alterei a forma de impressão, terminei as especificações dos módulos
+Data: 25/03/2015	Horas Trabalhadas: 5 horas		Tipo Tarefa: Corrigir, testar									Descrição da Tarefa Realizada: Fiz últimas correções no script de testes e realizei mais testes

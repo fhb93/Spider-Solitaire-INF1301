@@ -1,0 +1,48 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-3.exe
+
+      Arquivo de teste:    TesteLista.script
+
+
+!!!    0  Linha:     1  // Script:    TesteLista.script 
+!!!    0  Linha:     2  // Autor:     Arndt von Staa 
+!!!    0  Linha:     3  // Data:      02/abr/2008 
+!!!    0  Linha:     4  // Propósito: Testar superficialmente o módulo lista genérica duplamente encadeada 
+!!!    0  Linha:     5  // 
+    7  == Procurar Elemento A em lista Inexistente
+   10  == Cria a lista
+   13  == Procurar Valor "D" em lista vazia
+   16  == Obter Valor D de lista vazia
+   19  == Inserir Elemento "C" antes
+   22  == Obter Elemento "C"
+   25  == Inserir Elemento "B" antes
+   28  == Obter Elemento "B"
+   31  == Inserir Elemento "A" antes
+   34  == Obter Elemento "A"
+   37  == Ir para final da lista
+   40  == Obter Elemento "C"
+   43  == Inserir Elemento "D" após
+   46  == Obter Elemento "D"
+   49  == Avançar Elemento Corrente em 1
+   52  == Ir para Inicio da lista
+   55  == Obter Elemento "A"
+   58  == Procurar Elemento "B"
+   61  == Obter Elemento "B"
+   64  == Procurar Elemento "F"
+   67  == Esvaziar Lista
+   70  == Destroi a lista
+
+!!! Número de linhas lidas:          71
+!!! Número de casos de teste:        22
+!!! Número comandos corretos:        22
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

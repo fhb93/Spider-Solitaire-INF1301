@@ -1,0 +1,71 @@
+// Script:    TesteLista.script
+// Autor:     Arndt von Staa
+// Data:      02/abr/2008
+// Propósito: Testar superficialmente o módulo lista genérica duplamente encadeada
+//
+
+== Procurar Elemento A em lista Inexistente
+=procurarelem 		"A"	5
+
+== Cria a lista
+=criarlista	0
+
+== Procurar Valor "D" em lista vazia
+=procurarelem 		"D"	1
+
+== Obter Valor D de lista vazia
+=obtervalorelem		"D"	1
+
+== Inserir Elemento "C" antes
+=inselemantes		"C"	0
+
+== Obter Elemento "C"
+=obtervalorelem		"C"	0
+
+== Inserir Elemento "B" antes
+=inselemantes		"B"	0
+
+== Obter Elemento "B"
+=obtervalorelem		"B"	0
+
+== Inserir Elemento "A" antes
+=inselemantes 		"A"	0
+
+== Obter Elemento "A"
+=obtervalorelem 	"A"	0
+
+== Ir para final da lista
+=irfinal 	0
+
+== Obter Elemento "C"
+=obtervalorelem 	"C"	0
+
+== Inserir Elemento "D" após
+=inselemapos		"D"	0
+
+== Obter Elemento "D" 
+=obtervalorelem		"D"	0
+
+== Avançar Elemento Corrente em 1
+=avancarelem		1	2
+		
+== Ir para Inicio da lista
+=irinicio	0
+
+== Obter Elemento "A"
+=obtervalorelem 	"A"	0
+
+== Procurar Elemento "B"
+=procurarelem 		"B"	0
+
+== Obter Elemento "B"
+=obtervalorelem 	"B"	0
+
+== Procurar Elemento "F"
+=procurarelem 		"F"	4
+ 
+== Esvaziar Lista 
+=esvaziarlista		0
+
+== Destroi a lista
+=destruirlista		0

@@ -1,0 +1,8 @@
+Data: 10/03/2015	Horas Trabalhadas: 2   horas	Tipo Tarefa: Testar					Descrição da Tarefa Realizada: Tentei rodar o arcabouço, mas sem sucesso
+Data: 11/03/2015	Horas Trabalhadas: 3,5 horas	Tipo Tarefa: Testar e estudar				Descrição da Tarefa Realizada: Após estudo do arcabouço, consegui compilar o arcabouço e usá-lo para rodar alguns testes
+Data: 13/03/2015	Horas Trabalhadas: 2   horas    Tipo Tarefa: Planejar teste e Estudar			Descrição da Tarefa Realizada: Planejei as funções que deveriam ser implementadas para realizar a costura da árvore e como iriam ser chamadas.
+Data: 18/03/2015	Horas Trabalhadas: 3,5 horas	Tipo Tarefa: Codificar e Planejar teste			Descrição da Tarefa Realizada: Continuei o planejamento de funções restantes e implementei as funções de contagem das folhas e de preenchimento do vetor nosFolha (porém, com erros)
+Data: 22/03/2015	Horas Trabalhadas: 6   horas	Tipo Tarefa: Codificar e Estudar			Descrição da Tarefa Realizada: Devido à dificuldade de implementação das funções, utilizei de um tempo para tentar entender completamente como o código funcionava e continuei as tentativas de implementar a função de costura
+Data: 23/03/2015	Horas Trabalhadas: 5   horas    Tipo Tarefa: Codificar					Descrição da Tarefa Realizada: Com o código quase completo, passamos a buscar soluções para alguns erros que ainda estávamos encontrando.
+Data: 24/03/2015	Horas Trabalhadas: 4   horas    Tipo Tarefa: Codificar e revisar código			Descrição da Tarefa Realizada: Com o programa funcionando e script de teste feito, revisamos o códigos e fizemos pequenas alterações.
+Data: 25/03/2015	Horas Trabalhadas: 5   horas    Tipo Tarefa: Corrigir, testar			        Descrição da Tarefa Realizada: fiz últimas correções no script de testes e realizei mais testes

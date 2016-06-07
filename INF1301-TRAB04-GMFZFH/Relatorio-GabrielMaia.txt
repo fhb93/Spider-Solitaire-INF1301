@@ -1,0 +1,9 @@
+Data: 05/06/2015	Horas Trabalhadas: 5 horas	Tipo de Tarefa: Estudar               					Descrição da Tarefa Realizada: O enunciado foi estudado
+Data: 06/06/2015	Horas Trabalhadas: 4 horas	Tipo de Tarefa: Especificar Módulos					Descrição da Tarefa Realizada: Realizar as especificações do módulo de pilha de cartas				  				  
+Data: 09/06/2015	Horas Trabalhadas: 5 horas	Tipo de Tarefa: Revisar especificações					Descrição da Tarefa Realizada: Revisão das especificações  	
+Data: 13/06/2015	Horas Trabalhadas: 6 horas	Tipo de Tarefa: Projetar, Codificar					Descrição da Tarefa Realizada: Projeto da Aplicação e início da função de deturpar
+Data: 15/06/2015	Horas Trabalhadas: 5 horas	Tipo de Tarefa: Codificar						Descrição da Tarefa Realizada: Conclusão da verificação
+Data: 21/06/2015	Horas Trabalhadas: 4 horas	Tipo de Tarefa: Redigir Scripts de Teste, Revisar Scripts de teste	Descrição da Tarefa Realizada: Revisei dos scripts de deturpação da estrutura auto-verificável
+Data: 27/06/2015	Horas Trabalhadas: 3,5 horas	Tipo de Tarefa: Realizar Testes						Descrição da Tarefa Realizada: Realização das Deturpações e Verificações da estrutura
+Data: 03/07/2015	Horas Trabalhadas: 6 horas	Tipo de Tarefa: Diagnosticar e Corrigir os Problemas Encontrados	Descrição da Tarefa Realizada: Correção de falhas
+Data: 04/07/2015	Horas Trabalhadas: 3 horas	Tipo de Tarefa: Diagnosticar e Corrigir os Problemas Encontrados	Descrição da Tarefa Realizada: Conclusão do trabalho!

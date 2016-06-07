@@ -1,0 +1,32 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-2.exe
+
+      Arquivo de teste:    TestaCincoPrincipais.script
+
+
+!!!    0  Linha:     1  // Script:    TestaCincoPrincipais.script 
+!!!    0  Linha:     2  // Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini 
+!!!    0  Linha:     3  // Data:      01/06/2015 
+!!!    0  Linha:     4  // Propósito: Testar o módulo CincoPrincipais 
+    7  == Pedir Cartas do Monte
+    9  == Pedir Cartas do Monte
+   11  == Pedir Cartas do Monte
+   13  == Pedir Cartas do Monte
+   15  == Pedir Cartas do Monte
+   17  == Pedir Cartas do Monte
+   20  == Pedir Cartas do Monte para uma Sequência Vazia
+
+!!! Número de linhas lidas:          21
+!!! Número de casos de teste:         7
+!!! Número comandos corretos:         7
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

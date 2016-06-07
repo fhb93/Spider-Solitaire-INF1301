@@ -1,0 +1,23 @@
+// Script:    TesteBaralho.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      25/05/2015
+// Propósito: Testar superficialmente o módulo lista genérica duplamente encadeada
+//
+
+== Tenta distribuir 10 cartas de um baralho vazio
+=distribuir 	10	4
+
+== Criar o Baralho para dificuldade 5 de jogo (inválida)
+=criarbaralho		5		2
+
+== Embaralhar Baralho Vazio
+=embaralhar 	1
+
+== Cria o Baralho
+=criarbaralho	1	0	
+
+== Embaralhar
+=embaralhar 	0
+
+== Distribui 10 cartas do baralho para uma lista
+=distribuir 	10	0

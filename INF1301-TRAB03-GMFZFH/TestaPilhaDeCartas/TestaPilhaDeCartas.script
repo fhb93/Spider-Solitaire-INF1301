@@ -1,0 +1,36 @@
+// Script:    TestaPilhaDeCartas.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      24/05/2015
+// Propósito: Testar o módulo Pilha de Cartas
+
+
+
+== Adicionar uma Carta ao monte
+=adicionar	0	"10"	'C'	0	0
+ 
+== Remover uma Carta do monte
+=remover	0
+
+== Adicionar uma Carta ao monte
+=adicionar	0	"9"	'C'	0	0
+
+== Adicionar uma Carta ao monte
+=adicionar	0	"8"	'C'	0	0
+
+== Adicionar uma Carta ao monte
+=adicionar	0	"7"	'C'	0	0
+
+== Remover uma Carta do monte
+=remover	0
+
+== Remover uma Carta do monte
+=remover	0
+
+== Remover uma Carta do monte
+=remover	0
+
+== Remover uma Carta do monte
+=remover	3
+
+
+

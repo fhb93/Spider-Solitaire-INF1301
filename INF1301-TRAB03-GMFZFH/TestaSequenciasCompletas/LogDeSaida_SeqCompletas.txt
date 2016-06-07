@@ -1,0 +1,28 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-7.exe
+
+      Arquivo de teste:    TestaSequenciasCompletas.script
+
+
+!!!    0  Linha:     1  // Script:    TestaSequenciasCompletas.script 
+!!!    0  Linha:     2  // Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini 
+!!!    0  Linha:     3  // Data:      25/05/2015 
+!!!    0  Linha:     4  // Propósito: Testar o módulo de Sequências Completas 
+!!!    0  Linha:     5  // 
+    8  ==Testar se uma sequência incompleta está completa
+   11  == Testa se uma sequência está completa
+
+!!! Número de linhas lidas:          12
+!!! Número de casos de teste:         2
+!!! Número comandos corretos:         2
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

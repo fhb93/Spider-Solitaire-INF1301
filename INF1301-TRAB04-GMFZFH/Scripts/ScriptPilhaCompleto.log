@@ -1,0 +1,33 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB4-2.exe
+
+      Arquivo de teste:    Scripts\ScriptPilhaCompleto.script
+
+
+!!!    0  Linha:     1  // Script: Script1.script 
+!!!    0  Linha:     2  // Autor: Gabriel Maia, Felipe Zarattini, Felipe Holanda 
+!!!    0  Linha:     3  // Data: 13/abr/2014 
+!!!    0  Linha:     4  // Propósito: Testar o módulo Pilha de Cartas 
+    6  ==Inserir Carta
+    9  ==Criar Pilha
+   12  ==Retirar Carta
+   15  ==Inserir Carta
+   18  ==Inserir Carta
+   21  ==Retirar Carta
+   24  ==Retirar Carta
+   27  ==Destruir Pilha
+
+!!! Número de linhas lidas:          28
+!!! Número de casos de teste:         8
+!!! Número comandos corretos:         8
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

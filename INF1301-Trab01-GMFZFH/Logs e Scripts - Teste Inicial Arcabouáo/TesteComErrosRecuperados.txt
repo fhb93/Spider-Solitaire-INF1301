@@ -1,0 +1,59 @@
+
+!!! Inicio dos testes
+!!!      Construto sob teste: Modular.exe
+!!!      Script de teste:     TesteComErrosRecuperados.script
+
+!!!    0  Linha:     1  // Script:    TesteArvore.script 
+!!!    0  Linha:     2  // Autor:     Arndt von Staa, Felipe Holanda, Felipe Zarattini e Gabriel Maia 
+!!!    0  Linha:     3  // Data:      20/mar/2015 
+!!!    0  Linha:     4  // Propósito: Ilustrar arquivo de script, 
+!!!    0  Linha:     5  //            Testa a construção de uma árvore usando parâmetros literais 
+    7  == Verificar assertivas de entrada de irdir
+   10  == Verificar ObterValorCorr relativo a árvore inexistente
+   13  == Criar árvore
+   17  == Inserir à direita
+   20  == Obter o valor inserido
+!!!    0  Linha:    23  // A letra 'f' não está contida na árvore 
+   24  == Verificar controle de obter o valor não inserido
+>>>    1  Linha:    25  Conteúdo do nó está errado. Deveria ser: 'f'  É: 'a'
+<<<    0  Linha:    26  Falha esperada foi recuperada. 
+   28  == Ir para no pai, nao tem
+   31  == Inserir à esquerda
+   34  == Obter o valor inserido
+   37  == Ir para no pai, tem
+!!!    0  Linha:    41  // Já possui uma letra inserida a esquerda ('b') do nó pai ('a') 
+   42  == Inserir à esquerda
+>>>    1  Linha:    43  Retorno errado ao inserir à esquerda. Deveria ser: 0  É: 3
+<<<    0  Linha:    44  Falha esperada foi recuperada. 
+!!!    0  Linha:    46  // Por não ter inserido a letra 'c' por erro, a letra 'c' não está contida na árvore 
+   47  == Obter um valor que não está contido na função
+>>>    1  Linha:    48  Conteúdo do nó está errado. Deveria ser: 'c'  É: 'a'
+<<<    0  Linha:    49  Falha esperada foi recuperada. 
+!!!    0  Linha:    51  // Como não executou os 2 últimos passos, já se encontra no nó raiz 
+   52  == Ir para no pai
+>>>    1  Linha:    53  Retorno errado ao ir para pai. Deveria ser: 0  É: 6
+<<<    0  Linha:    54  Falha esperada foi recuperada. 
+   56  == Obter valor do nó pai
+   59  == Ir para no pai
+   63  == Ir para no esquerda tem
+   67  == Ir para no direita, não tem
+!!!    0  Linha:    70  // Não existe nó a direita 
+   71  == A direita do nó raiz está vazia
+>>>    1  Linha:    72  Retorno errado ao ir para direita. Deveria ser: 0  É: 7
+<<<    0  Linha:    73  Falha esperada foi recuperada. 
+!!!    0  Linha:    75  // Como não foi inserido a letra 'c' e como se encontra no nó raiz ('a') 
+   76  == Obter valor que não está contido na árvore
+>>>    1  Linha:    77  Conteúdo do nó está errado. Deveria ser: 'c'  É: 'a'
+<<<    0  Linha:    78  Falha esperada foi recuperada. 
+   80  == Destroi a arvore
+!!!    0  Linha:    86  // fim 
+
+!!! Número de linhas lidas:          86
+!!! Número de casos de teste:        20
+!!! Número comandos corretos:        19
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

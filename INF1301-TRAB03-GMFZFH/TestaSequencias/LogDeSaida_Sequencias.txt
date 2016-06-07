@@ -1,0 +1,39 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-6.exe
+
+      Arquivo de teste:    TestaSequencias.script
+
+
+!!!    0  Linha:     1  // Script:    TestaSequencias.script 
+!!!    0  Linha:     2  // Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini 
+!!!    0  Linha:     3  // Data:      25/05/2015 
+!!!    0  Linha:     4  // Objetivo: Testar o módulo de Sequências 
+!!!    0  Linha:     5  // 
+    7  == Retirar 4 de copas de uma sequência vazia
+   10  == Imprime Sequências
+(1) 7  6  5  4  3  2  A 
+(2)
+   13  == Retirar 5 de copas da sequência (não existe na sequência fonte)
+   16  == Retirar 4 de copas da sequência
+   19  == Imprime Sequências
+(1) 7  6  5 
+(2)
+   22  == Inserir Cartas Retiradas em outra Sequência
+   25  == Imprime Sequências
+(1) 7  6  5 
+(2) 4  3  2  A 
+
+!!! Número de linhas lidas:          27
+!!! Número de casos de teste:         7
+!!! Número comandos corretos:         7
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

@@ -1,0 +1,86 @@
+// Script:    TesteArvore.script
+// Autor:     Arndt von Staa, Felipe Holanda, Felipe Zarattini e Gabriel Maia
+// Data:      20/mar/2015
+// Propósito: Ilustrar arquivo de script, 
+//            Testa a construção de uma árvore usando parâmetros literais
+
+== Verificar assertivas de entrada de irdir
+=irdir      4
+
+== Verificar ObterValorCorr relativo a árvore inexistente
+=obter      '!'   4
+
+== Criar árvore
+=criar      0   0
+=irdir      5
+
+== Inserir à direita
+=insdir     'a'   0
+
+== Obter o valor inserido
+=obter      'a'   0
+
+// A letra 'f' não está contida na árvore
+== Verificar controle de obter o valor não inserido
+=obter      'f'   0
+=recuperar
+
+== Ir para no pai, nao tem
+=irpai      6
+  
+== Inserir à esquerda
+=insesq     'b'   0
+
+== Obter o valor inserido
+=obter      'b'   0
+
+== Ir para no pai, tem
+=irpai      0
+=obter      'a'   0
+
+// Já possui uma letra inserida a esquerda ('b') do nó pai ('a')
+== Inserir à esquerda
+=insesq     'c'   0
+=recuperar
+
+// Por não ter inserido a letra 'c' por erro, a letra 'c' não está contida na árvore
+== Obter um valor que não está contido na função
+=obter      'c'   0
+=recuperar
+
+// Como não executou os 2 últimos passos, já se encontra no nó raiz
+== Ir para no pai
+=irpai      0
+=recuperar
+
+== Obter valor do nó pai
+=obter      'a'   0
+
+== Ir para no pai
+=irpai      6
+=obter      'a'   0
+
+== Ir para no esquerda tem
+=iresq      0
+=obter      'b'   0
+
+== Ir para no direita, não tem
+=irpai      0
+
+// Não existe nó a direita
+== A direita do nó raiz está vazia
+=irdir      0
+=recuperar
+
+// Como não foi inserido a letra 'c' e como se encontra no nó raiz ('a')
+== Obter valor que não está contido na árvore
+=obter      'c'   0
+=recuperar
+
+== Destroi a arvore
+=destruir   
+=irdir      4
+
+
+
+// fim

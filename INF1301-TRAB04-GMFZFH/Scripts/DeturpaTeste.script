@@ -1,0 +1,90 @@
+// Script: DeturpaTeste1.script
+// Autor: Gabriel Maia, Felipe Zarattini, Felipe Holanda
+// Data: 13/abr/2014
+// Propósito: Testar a deturpação
+
+== Iniciar contagem
+=inicializarcontadores "Contadores\\Acumulador"
+=zerartodoscontadores
+=lercontadores "Contadores\\VerificaPilha"
+=iniciarcontagem
+
+
+==Deturpando 1. Destruir nó corrente.
+=criarpilha 	0
+=deturpa	1	0
+=verifica 	2
+=destruirpilha	0
+
+
+==Deturpando 2. Acrescentar NULL no elemento sucessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=deturpa	2	0
+=verifica	2
+=destruirpilha	0
+
+
+==Deturpando 3. Acrescentar NULL no elemento predecessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=adicionar	"3"	'C'	0	0	0
+=deturpa	3	0
+=verifica	6
+=destruirpilha	0
+
+
+==Deturpando 6. Acrescentar lixo no elemento predecessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=deturpa	6	0
+=verifica	2
+=destruirpilha	0
+
+
+==Deturpando 7. Acrescentar lixo no elemento predecessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"3"	'C'	0	0	0
+=deturpa	7	0
+=verifica	1
+=destruirpilha	0
+
+
+==Deturpando 8. Acrescentar lixo no elemento predecessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=adicionar	"3"	'C'	0	0	0
+=deturpa	8	0
+=verifica	4
+=destruirpilha	0
+
+
+==Deturpando 9. Acrescentar lixo no elemento predecessor.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=adicionar	"3"	'C'	0	0	0
+=deturpa	9	0
+=verifica	1
+=destruirpilha	0
+
+
+==Deturpando 10. Acrescentar NULL ao elemento origem.
+=criarpilha 	0
+=adicionar	"A"	'C'	0	0	0
+=adicionar	"2"	'C'	0	0	0
+=deturpa	10	0
+=verifica	4
+=destruirpilha	0
+
+
+== Parando contagem
+=pararcontagem
+
+== Finalizando contadores
+=terminarcontadores

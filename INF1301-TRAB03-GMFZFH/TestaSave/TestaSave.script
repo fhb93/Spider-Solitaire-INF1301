@@ -1,0 +1,15 @@
+// Script:    TestaSave.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      25/05/2015
+// Propósito: Testar o módulo Save
+//
+
+
+== Carregar jogo não iniciado
+=carregar	1
+
+== Salvar estrutura
+=salvar		0
+
+== Carregar estrutura
+=carregar	0

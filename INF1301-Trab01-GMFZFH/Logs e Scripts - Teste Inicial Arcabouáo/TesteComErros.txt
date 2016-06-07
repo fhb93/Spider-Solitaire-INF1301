@@ -1,0 +1,53 @@
+
+!!! Inicio dos testes
+!!!      Construto sob teste: Modular.exe
+!!!      Script de teste:     TesteComErros.script
+
+!!!    0  Linha:     1  // Script:    TesteArvore.script 
+!!!    0  Linha:     2  // Autor:     Arndt von Staa, Felipe Holanda, Felipe Zarattini e Gabriel Maia 
+!!!    0  Linha:     3  // Data:      20/mar/2015 
+!!!    0  Linha:     4  // Propósito: Ilustrar arquivo de script, 
+!!!    0  Linha:     5  //            Testa a construção de uma árvore usando parâmetros literais 
+    7  == Verificar assertivas de entrada de irdir
+   10  == Verificar ObterValorCorr relativo a árvore inexistente
+   13  == Criar árvore
+   17  == Inserir à direita
+   20  == Obter o valor inserido
+!!!    0  Linha:    23  // A letra 'f' não está contida na árvore 
+   24  == Verificar controle de obter o valor não inserido
+>>>    1  Linha:    25  Conteúdo do nó está errado. Deveria ser: 'f'  É: 'a'
+   27  == Ir para no pai, nao tem
+   30  == Inserir à esquerda
+   33  == Obter o valor inserido
+   36  == Ir para no pai, tem
+!!!    1  Linha:    40  // Já possui uma letra inserida a esquerda ('b') do nó pai ('a') 
+   41  == Inserir à esquerda
+>>>    2  Linha:    42  Retorno errado ao inserir à esquerda. Deveria ser: 0  É: 3
+!!!    2  Linha:    44  // Por não ter inserido a letra 'c' por erro, a letra 'c' não está contida na árvore 
+   45  == Obter um valor que não está contido na função
+>>>    3  Linha:    46  Conteúdo do nó está errado. Deveria ser: 'c'  É: 'a'
+!!!    3  Linha:    48  // Como não executou os 2 últimos passos, já se encontra no nó raiz 
+   49  == Ir para no pai
+>>>    4  Linha:    50  Retorno errado ao ir para pai. Deveria ser: 0  É: 6
+   52  == Obter valor do nó pai
+   55  == Ir para no pai
+   59  == Ir para no esquerda tem
+   63  == Ir para no direita, não tem
+!!!    4  Linha:    66  // Não existe nó a direita 
+   67  == A direita do nó raiz está vazia
+>>>    5  Linha:    68  Retorno errado ao ir para direita. Deveria ser: 0  É: 7
+!!!    5  Linha:    70  // Como não foi inserido a letra 'c' e como se encontra no nó raiz ('a') 
+   71  == Obter valor que não está contido na árvore
+>>>    6  Linha:    72  Conteúdo do nó está errado. Deveria ser: 'c'  É: 'a'
+   74  == Destroi a arvore
+!!!    6  Linha:    80  // fim 
+
+!!! Número de linhas lidas:          80
+!!! Número de casos de teste:        20
+!!! Número comandos corretos:        19
+!!! Número de falhas encontradas:     6
+
+!!! Foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

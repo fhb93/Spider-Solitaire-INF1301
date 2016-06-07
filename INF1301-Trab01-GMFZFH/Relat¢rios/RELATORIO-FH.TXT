@@ -1,0 +1,10 @@
+Data: 10/03/2015	Horas Trabalhadas: 2  	Tipo Tarefa: testar				Descrição da Tarefa Realizada: Tentei testar e instalar o arcabouço de testes na minha máquina
+Data: 11/03/2015	Horas Trabalhadas: 1 	Tipo Tafera: testar				Descrição da Tarefa Realizada: Consegui instalar o arcabouço de testes sem erros
+Data: 14/03/2015	Horas Trabalhadas: 2 	Tipo Tarefa: planejar teste, estudar		Descrição da Tarefa Realizada: Estudei os scripts de população de árvores e tentei escrever um, sem sucessos
+Data: 15/03/2015	Horas Trabalhadas: 3 	Tipo Tarefa: codificar				Descrição da Tarefa Realizada: Comecei a codificar, criando testes em separado, para testar o funcionamento do arcabouço
+Data: 20/03/2015 	Horas Trabalhadas: 1 	Tipo Tarefa: codificar				Descrição da Tarefa Realizada: Voltei aos scripts de população, para forçar erros no log
+Data: 21/03/2015	Horas Trabalhadas: 3 	Tipo Tarefa: estudar, codificar			Descrição da Tarefa Realizada: Comecei a estudar a costura e a trabalhar na costura da árvore
+Data: 22/03/2015	Horas Trabalhadas: 5	Tipo Tarefa: codificar, revisar projetos 	Descrição da Tarefa Realizada: Escrevi um script para testar a população sem erros no log, e depois voltei à codificação da costura	
+Data: 23/03/2015	Horas Trabalhadas: 3,5	Tipo Tarefa: codificar, testar, corrigir	Descrição da Tarefa Realizada: Trabalhei no final da codificação da costura e do printf em ordem alfabética, testei o que foi codificado e corrigi erros
+Data: 24/03/2015	Horas Trabalhadas: 4 	Tipo Tafera: codificar, testar			Descrição da Tarefa Realizada: Trabalhei no código e testei o script com o que foi codificado	
+Data: 25/03/2015	Horas Trabalhadas: 3	Tipo Tarefa: corrigir, testar			Descrição da Tarefa Realizada: Fiz últimas correções no script de testes e realizei mais testes

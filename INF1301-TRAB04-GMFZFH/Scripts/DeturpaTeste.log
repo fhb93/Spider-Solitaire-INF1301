@@ -1,0 +1,124 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB4-1.exe
+
+      Arquivo de teste:    Scripts\DeturpaTeste.script
+
+
+!!!    0  Linha:     1  // Script: DeturpaTeste1.script 
+!!!    0  Linha:     2  // Autor: Gabriel Maia, Felipe Zarattini, Felipe Holanda 
+!!!    0  Linha:     3  // Data: 13/abr/2014 
+!!!    0  Linha:     4  // Propósito: Testar a deturpação 
+    6  == Iniciar contagem
+   13  ==Deturpando 1. Destruir nó corrente.
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 1 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 1 
+
+   20  ==Deturpando 2. Acrescentar NULL no elemento sucessor.
+Erro: pNoCorrente != pNoCorrente->pAnt->pProx
+
+ Erro no ponteiro para Nó predecessor no Nó : 1 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 1 
+
+   29  ==Deturpando 3. Acrescentar NULL no elemento predecessor.
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 1 
+
+Erro: pNoCorrente != pNoCorrente->pProx->pAnt
+
+ Erro no ponteiro para Nó sucessor no Nó : 1 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 2 
+
+Erro: pNoCorrente != pNoCorrente->pProx->pAnt
+
+ Erro no ponteiro para Nó sucessor no Nó : 2 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 3 
+
+Erro: pNoCorrente != pNoCorrente->pProx->pAnt
+
+ Erro no ponteiro para Nó sucessor no Nó : 3 
+
+   39  ==Deturpando 6. Acrescentar lixo no elemento predecessor.
+Erro: Ponteiro para conteudo da celula nulo!
+
+Erro: Tipos de conteudo inconsistentes na lista.
+
+Erro: Ponteiro para conteudo da celula nulo!
+
+Erro: Tipos de conteudo inconsistentes na lista.
+
+   48  ==Deturpando 7. Acrescentar lixo no elemento predecessor.
+Erro: Tipo do conteudo da celula diferente do registrado na cabeca da lista!
+
+Erro: Tipos de conteudo inconsistentes na lista.
+
+   57  ==Deturpando 8. Acrescentar lixo no elemento predecessor.
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 1 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 1 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó predecessor no Nó : 2 
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 2 
+
+   67  ==Deturpando 9. Acrescentar lixo no elemento predecessor.
+Lista Preenchida: erro pNoCorrente ou pFimLista ou pOrigemLista nulo(s)
+
+Erro nas assertivas de uma lista com mais 1 um elementos.
+
+   77  ==Deturpando 10. Acrescentar NULL ao elemento origem.
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 1 
+
+Lista Preenchida: erro pNoCorrente ou pFimLista ou pOrigemLista nulo(s)
+
+Erro nas assertivas de uma lista com mais 1 um elementos.
+
+Erro: nao foi possivel percorrer toda a lista, significa que algum no foi desencadeado
+
+ Erro no ponteiro para Nó sucessor no Nó : 2 
+
+Lista Preenchida: erro pNoCorrente ou pFimLista ou pOrigemLista nulo(s)
+
+Erro nas assertivas de uma lista com mais 1 um elementos.
+
+   86  == Parando contagem
+   89  == Finalizando contadores
+
+!!! Número de linhas lidas:          90
+!!! Número de casos de teste:        11
+!!! Número comandos corretos:        55
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 4

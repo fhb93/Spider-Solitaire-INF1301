@@ -1,0 +1,21 @@
+// Script:    TestaCincoPrincipais.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      01/06/2015
+// Propósito: Testar o módulo CincoPrincipais
+
+
+== Pedir Cartas do Monte
+=pedirmonte		0
+== Pedir Cartas do Monte
+=pedirmonte		0
+== Pedir Cartas do Monte
+=pedirmonte		0
+== Pedir Cartas do Monte
+=pedirmonte		0
+== Pedir Cartas do Monte
+=pedirmonte		0
+== Pedir Cartas do Monte
+=pedirmonte		2
+
+== Pedir Cartas do Monte para uma Sequência Vazia
+=pedirparavazia		1

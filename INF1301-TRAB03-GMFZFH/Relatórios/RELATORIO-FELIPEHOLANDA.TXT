@@ -1,0 +1,14 @@
+Data: 05/05/2015	Horas Trabalhadas: 1		Tipo Tarefa: estudar						Descrição da Tarefa Realizada: estudei o enunciado do trabalho 3
+Data: 09/05/2015	Horas Trabalhadas: 2		Tipo Tarefa: especificar módulos, especificar funções		Descrição da Tarefa Realizada: analisei e anotei as especificações dos módulos e funções de lista e de pilha de cartas
+Data: 10/05/2015	Horas Trabalhadas: 2 		Tipo Tarefa: estudar, projetar                                  Descrição da Tarefa Realizada: com base em estudos nas especificações, comecei a projetar os módulos lista e pilha de cartas 
+Data: 13/05/2015	Horas Trabalhadas: 1		Tipo Tarefa: especificar módulos, especificar funções		Descrição da Tarefa Realizada: preparei as especificações dos módulos Sequencias
+Data: 15/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: projetar, estudar, revisar especificações		Descrição da Tarefa Realizada: ampliei o projeto dos módulos de Lista e Pilha de Cartas com a adição dos módulos de Sequencias, com base no que estava pronto, revisei todas as especificações
+Data: 16/05/2015	Horas Trabalhadas: 7		Tipo Tarefa: revisar projetos, codificar módulos		Descrição da Tarefa Realizada: revisei os projetos, corrigi pequenos detalhes e com base no projeto, iniciei a codificação de todos os módulos
+Data: 17/05/2015	Horas Trabalhadas: 6		Tipo Tarefa: codificar módulos, revisar código do módulo	Descrição da Tarefa Realizada: concluí os módulos de Lista e Pilha de Cartas, revisei e fiz o debugging do código em busca de falhas
+Data: 21/05/2015	Horas Trabalhadas: 1		Tipo Tarefa: estudar						Descrição da Tarefa Realizada: estudei o arcabouço para lembrar como fazer a linguagem simbólica de script de teste
+Data: 23/05/2015	Horas Trabalhadas: 2		Tipo Tarefa: redigir script de teste				Descrição da Tarefa Realizada: comecei a redigir os script de teste, tendo como base o arcabouço e dicas de colegas
+Data: 24/05/2015	Horas Trabalhadas: 2		Tipo Tarefa: revisar scripts de teste, realizar os testes	Descrição da Tarefa Realizada: revisei os scripts, comparando com os testes de lista genérica do arcabouço
+Data: 26/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: realizar testes					Descrição da Tarefa Realizada: fiz os testes de Sequencias e de Sequencias Completas
+Data: 29/05/2015        Horas Trabalhadas: 7		Tipo Tarefa: diagnosticar e corrigir os problemas encontrados	Descrição da Tarefa Realizada: corrigi vários problemas no código, encontrados durante a realização dos testes
+Data: 30/05/2015	Horas Trabalhadas: 2            Tipo Tarefa: revisar códigos do módulo				Descrição da Tarefa Realizada: padronizei a nomenclatura das funções e preparei a documentação de cada um dos códigos dos módulos
+Data: 31/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: revisar códigos do módulo

@@ -1,0 +1,12 @@
+Data: 06/05/2015	Horas Trabalhadas: 2 		Tipo Tarefa: estudar								Descrição da Tarefa Realizada: estudei e analisei cuidadosamente do enunciado do trabalho 3 
+Data: 07/05/2015 	Horas Trabalhadas: 3		Tipo Tarefa: especificar módulos e funções					Descrição da Tarefa Realizada: elaborei as especificações dos módulos e funções de Carta e Sequência 
+Data: 08/05/2015 	Horas Trabalhadas: 1		Tipo Tarefa: projetar, revisar especificações					Descrição da Tarefa Realizada: projetei os esquemas da arquitetura de carta e sequência
+Data: 09/05/2015	Horas Trabalhadas: 1		Tipo Tarefa: codificar módulos							Descrição da Tarefa Realizada: iniciei a codificação do módulo carta 
+Data: 14/05/2015	Horas Trabalhadas: 2		Tipo Tarefa: revisar código do módulo						Descrição da Tarefa Realizada: a partir do código escrito, revisei os módulos em busca de falhas
+Data: 16/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: estudar, redigir scripts de teste					Descrição da Tarefa Realizada: a partir do estudo do arcabouço, comecei a redigir os scripts 
+Data: 17/05/2015	Horas Trabalhadas: 3		Tipo Tarefa: revisar scripts de teste						Descrição da Tarefa Realizada: revisei os scripts de teste de Pilha de Cartas
+Data: 23/05/2015	Horas Trabalhadas: 5		Tipo Tarefa: realizar testes, diagnosticar e corrigir os problemas encontrados	Descrição da Tarefa Realizada: corrigi as falhas encontradas a partir do teste
+Data: 24/05/2015	Horas Trabalhadas: 6		Tipo Tarefa: redigir scripts de teste, revisar scripts, realizar testes		Descrição da Tarefa Realizada: elaborei os scripts de teste de Cinco Montes e Baralho, em seguida, fiz os testes
+Data: 30/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: realizar testes, diagnosticar os problemas encontrados		Descrição da Tarefa Realizada: fim dos testes em pilha de cartas e correção de falhas e inconsistências nos códigos de Cinco Montes
+Data: 31/05/2015	Horas Trabalhadas: 5		Tipo Tarefa: realizar testes, diagnosticar os problemas encontrados		Descrição da Tarefa Realizada: avanços nas correções de Cinco Montes e mais testes 
+Data: 01/05/2015	Horas Trabalhadas: 7		Tipo Tarefa: diagnosticar os problemas encontrados				Descrição da Tarefa Realizada: busca de falhas menores no restante do código do trabalho

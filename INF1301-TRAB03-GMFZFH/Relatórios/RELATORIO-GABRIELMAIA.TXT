@@ -1,0 +1,11 @@
+Data: 06/05/2015	Horas Trabalhadas: 2 		Tipo Tarefa: estudar 											Descrição da Tarefa Realizada: estudei o enunciado do trabalho 3 
+Data: 07/05/2015 	Horas Trabalhadas: 3		Tipo Tarefa: especificar módulos e funções								Descrição da Tarefa Realizada: fiz as especificações dos módulos de Baralho e Sequências Completas
+Data: 08/05/2015 	Horas Trabalhadas: 2		Tipo Tarefa: projetar, revisar especificações								Descrição da Tarefa Realizada: fiz a arquitetura da Principal, Cinco Montes, Sequências Completas e Baralho
+Data: 09/05/2015	Horas Trabalhadas: 1		Tipo Tarefa: codificar módulos										Descrição da Tarefa Realizada: iniciei a codificação do módulo Baralho
+Data: 14/05/2015	Horas Trabalhadas: 2		Tipo Tarefa: revisar código do módulo, codificar							Descrição da Tarefa Realizada: revisei falhas em Baralho e dei início ao módulo de Sequencias Completas e Cinco Montes
+Data: 16/05/2015	Horas Trabalhadas: 4		Tipo Tarefa: estudar, redigir scripts de teste								Descrição da Tarefa Realizada: a partir do arcabouço, comecei a redigir os scripts de Pilha de Cartas
+Data: 17/05/2015	Horas Trabalhadas: 3		Tipo Tarefa: revisar scripts de teste									Descrição da Tarefa Realizada: revisei os scripts de teste de Pilha de Cartas
+Data: 23/05/2015	Horas Trabalhadas: 6		Tipo Tarefa: realizar testes, diagnosticar e corrigir os problemas encontrados, codificar		Descrição da Tarefa Realizada: corrigi as falhas encontradas no teste e comecei a codificar o módulo Principal
+Data: 30/05/2015	Horas Trabalhadas: 3		Tipo Tarefa: realizar testes, diagnosticar os problemas encontrados					Descrição da Tarefa Realizada: fim dos testes em Pilha de Cartas e continuação da codificação da Principal
+Data: 31/05/2015	Horas Trabalhadas: 7		Tipo Tarefa: codificar módulos										Descrição da Tarefa Realizada: concluí a codificação do módulo Principal 
+Data: 01/05/2015	Horas Trabalhadas: 5		Tipo Tarefa: diagnosticar os problemas encontrados							Descrição da Tarefa Realizada: revisão geral do código

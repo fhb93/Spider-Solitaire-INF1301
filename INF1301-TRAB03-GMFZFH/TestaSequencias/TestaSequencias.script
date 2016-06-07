@@ -1,0 +1,27 @@
+// Script:    TestaSequencias.script
+// Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini
+// Data:      25/05/2015
+// Objetivo: Testar o módulo de Sequências
+//
+
+== Retirar 4 de copas de uma sequência vazia
+=retirarseqvazia		"4"	'c'	1
+
+== Imprime Sequências
+=imprimirsequencia	0
+
+== Retirar 5 de copas da sequência (não existe na sequência fonte)
+=retirarcarta		"5"	'c'	2
+
+== Retirar 4 de copas da sequência
+=retirarcarta		"4"	'c'	0
+
+== Imprime Sequências
+=imprimirsequencia	0
+
+== Inserir Cartas Retiradas em outra Sequência
+=inserircarta	0
+
+== Imprime Sequências
+=imprimirsequencia	0
+

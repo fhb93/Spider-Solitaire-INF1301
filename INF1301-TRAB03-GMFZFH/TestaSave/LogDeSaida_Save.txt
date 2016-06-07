@@ -1,0 +1,29 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-5.exe
+
+      Arquivo de teste:    TestaSave.script
+
+
+!!!    0  Linha:     1  // Script:    TestaSave.script 
+!!!    0  Linha:     2  // Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini 
+!!!    0  Linha:     3  // Data:      25/05/2015 
+!!!    0  Linha:     4  // Propósito: Testar o módulo Save 
+!!!    0  Linha:     5  // 
+    8  == Carregar jogo não iniciadoErro de abertura de arquivo!
+   11  == Salvar estrutura
+   14  == Carregar estrutura
+
+!!! Número de linhas lidas:          15
+!!! Número de casos de teste:         3
+!!! Número comandos corretos:         3
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0

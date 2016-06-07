@@ -1,0 +1,32 @@
+
+
+LES - Laboratório de Engenharia de Software DI/PUC-Rio
+      Arcabouço de teste de módulos C  (c) 2006
+
+---------------------------------------------
+      Construto sob teste: TRAB03-1.exe
+
+      Arquivo de teste:    TesteBaralho.script
+
+
+!!!    0  Linha:     1  // Script:    TesteBaralho.script 
+!!!    0  Linha:     2  // Autor:     Gabriel Maia, Felipe Holanda, Felipe Zarattini 
+!!!    0  Linha:     3  // Data:      25/05/2015 
+!!!    0  Linha:     4  // Propósito: Testar superficialmente o módulo lista genérica duplamente encadeada 
+!!!    0  Linha:     5  // 
+    7  == Tenta distribuir 10 cartas de um baralho vazio
+   10  == Criar o Baralho para dificuldade 5 de jogo (inválida)
+   13  == Embaralhar Baralho Vazio
+   16  == Cria o Baralho
+   19  == Embaralhar
+   22  == Distribui 10 cartas do baralho para uma lista
+
+!!! Número de linhas lidas:          23
+!!! Número de casos de teste:         6
+!!! Número comandos corretos:         6
+!!! Número de falhas encontradas:     0
+
+!!! Não foram encontrados problemas
+
+
+!!! Numero de espacos ainda alocados: 0
