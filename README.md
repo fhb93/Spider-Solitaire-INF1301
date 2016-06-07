@@ -1,4 +1,4 @@
-# Spider-Solitaire-INF1301
+# Win32 Spider Solitaire INF1301
 Tasks developed at Modular Programming (INF1301) at PUC-Rio 
 ## Development Team: 
 <br>Felipe Holanda Bezerra <br>
